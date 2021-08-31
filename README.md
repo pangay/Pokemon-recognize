@@ -1,5 +1,7 @@
-# Pokemon识别 基于PaddleClas
+# Pokemon_Identify_Bot 捕捉你的宝可梦吧
 
-本项目通过ReNet网络训练出 宝可梦识别模型 数据可通过AI Stdio上的项目获取
 
-##AIStdio 链接https://aistudio.baidu.com/aistudio/projectdetail/2279371?shared=1
+本项目使用Paddlex训练出宝克梦识别模型：https://aistudio.baidu.com/aistudio/projectdetail/2278829?shared=1
+
+通过wechaty构建出微信机器人Pokemon_Identify_Bot:
+
