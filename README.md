@@ -5,3 +5,4 @@
 
 通过wechaty构建出微信机器人Pokemon_Identify_Bot:
 
+main.py：本地部署代码
